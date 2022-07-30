@@ -1,1 +1,1 @@
-# envy-gen
+# dotenv-gen
